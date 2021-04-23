@@ -6,7 +6,7 @@
 - Chlorine dispenser
 - Ph+/- dispenser
 - Email notifications
-
+- Dashbaord to montior sensor readings (PHP)
 
 ### Parts (Incomplete)
 
