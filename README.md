@@ -20,7 +20,7 @@
 | PH Sensor | [amazon ca](https://www.amazon.ca/dp/B00YD81JS2/ref=as_li_ss_tl?s=industrial&keywords=atlas+scientific&ie=UTF8&sr=1-10&linkCode=gs2&linkId=4a08570c3ed0ec01f7f1629740e877ea&tag=myhydropica-20)| 1 | 95$|
 | ORP Sensor | [amazon ca](https://www.amazon.ca/dp/B00A7GUBXS/ref=as_li_ss_tl?s=industrial&keywords=atlas+scientific&ie=UTF8&sr=1-11&linkCode=gs2&linkId=d9eed73719fc5f87661e360559698bb1&tag=myhydropica-20)| 1 | 145$|
 |Sensor mounts ro BNC Board| [atlas scientific](https://atlas-scientific.com/carrier-boards/ezo-carrier-board/)|3| 40$|
-|Power isolation circuits| [atlas scientific) ](https://atlas-scientific.com/ezo-accessories/basic-ezo-inline-voltage-isolator/)|2| 40$|
+|Power isolation circuits| [atlas scientific](https://atlas-scientific.com/ezo-accessories/basic-ezo-inline-voltage-isolator/)|2| 40$|
 
 
 
