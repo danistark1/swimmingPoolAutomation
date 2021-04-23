@@ -8,7 +8,7 @@
 - Email notifications
 
 
-### Parts
+### Parts (Incomplete)
 
 - [Breadboard ~42$](https://www.amazon.ca/dp/B0084A7PI8/ref=as_li_ss_tl?s=industrial&keywords=breadboard&ie=UTF8&sr=1-5&linkCode=gs2&linkId=b1bdaace2827ddd90d35b0d3720d8a26&tag=myhydropica-20)
 - [Jumper Wires ~22$](https://www.amazon.ca/dp/B017NEGTXC/ref=as_li_ss_tl?s=industrial&keywords=breadboard+jumper+wires&ie=UTF8&sr=1-3&linkCode=gs2&linkId=153d15b5b659260940a688d8f3a32dc7&tag=myhydropica-20)
